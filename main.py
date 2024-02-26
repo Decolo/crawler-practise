@@ -3,6 +3,8 @@ def main():
     
     person.update({ "age": 31})
     print(person)
+    
+    person.update({ "name": "bar" });
 
 
 if __name__ == "__main__":
