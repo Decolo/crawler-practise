@@ -5,6 +5,7 @@ def main():
     print(person)
     
     person.update({ "name": "bar" });
+    person.update({ "name": "bar" });
 
 
 if __name__ == "__main__":
