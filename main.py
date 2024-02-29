@@ -7,6 +7,7 @@ def main():
     person.update({ "name": "bar" });
     person.update({ "name": "bar" });
     person.update({ "name": "baz" });
+    person.update({ "name": "baz" });
 
 
 if __name__ == "__main__":
