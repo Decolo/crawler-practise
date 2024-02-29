@@ -8,6 +8,7 @@ def main():
     person.update({ "name": "bar" });
     person.update({ "name": "baz" });
     person.update({ "name": "baz" });
+    person.update({ "age": 31 });
 
 
 if __name__ == "__main__":
