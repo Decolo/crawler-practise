@@ -9,6 +9,7 @@ def main():
     person.update({ "name": "baz" });
     person.update({ "name": "baz" });
     person.update({ "age": 31 });
+    person.update({ "age": 33 });
     person.update({ "age": 32 });
 
 
